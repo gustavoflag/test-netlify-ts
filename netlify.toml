@@ -5,8 +5,3 @@
 
 [functions]
   directory = "netlify/functions"
-
-[[redirects]]
-  from = "/api/*"
-  to = "/.netlify/functions/items"
-  status = 200
