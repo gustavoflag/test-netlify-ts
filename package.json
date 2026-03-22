@@ -21,6 +21,11 @@
     "typescript": "^5.9.3"
   },
   "dependencies": {
-    "@netlify/functions": "^5.1.5"
+    "@apollo/server": "^5.4.0",
+    "@graphql-tools/schema": "^10.0.31",
+    "@netlify/functions": "^5.1.5",
+    "apollo-server-lambda": "^3.13.0",
+    "graphql": "^16.13.1",
+    "graphql-yoga": "^5.18.1"
   }
 }

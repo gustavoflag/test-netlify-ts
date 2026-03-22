@@ -7,6 +7,6 @@
    directory = "dist/netlify/functions"
 
 [[redirects]]
-  from = "/api/*"
-  to = "/.netlify/functions/items"
+  from = "/graphql"
+  to = "/.netlify/functions/graphql"
   status = 200
